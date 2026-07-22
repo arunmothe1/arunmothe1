@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm Arun Mothe</h1> <h3 align="center">AWS Cloud & DevOps Engineer | BCA Student | Infrastructure Automation Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Cloud+%7C+DevOps+%7C+Terraform;Building+Scalable+%26+Secure+Cloud+Infrastructure;Automating+the+World%2C+One+Pipeline+at+a+Time" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/arunmothe95" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mothearun8443@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/arunmothe1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Arun Mothe</h1>
+<h3 align="center">AWS Cloud & DevOps Engineer | BCA Student | Infrastructure Automation Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Cloud+%7C+DevOps+%7C+Terraform;Building+Scalable+%26+Secure+Cloud+Infrastructure;Automating+the+World%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunmothe95" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mothearun8443@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/arunmothe1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -62,8 +79,6 @@ I am a **Bachelor of Computer Applications (BCA)** student with a strong interes
 
 Designed and deployed a highly available and scalable **3-tier web application infrastructure** on AWS using **Terraform** as the Infrastructure as Code (IaC) tool.
 
-**Tech Stack:** `AWS (EC2, VPC, IAM, S3, RDS, ASG, ALB, CloudWatch, Security Groups)` · `Terraform` · `Git` · `GitHub` · `Docker` · `Linux`
-
 **Key Responsibilities**
 - 🏗️ Designed a secure **VPC** with public and private subnets across multiple Availability Zones
 - 🖥️ Provisioned **EC2 instances** using Launch Templates for application deployment
@@ -76,6 +91,7 @@ Designed and deployed a highly available and scalable **3-tier web application i
 - ♻️ Automated the complete deployment using **reusable Terraform modules**
 - 🔀 Used **Git and GitHub** for version control and collaborative project management
 
+**Tech Stack:** `AWS (EC2, VPC, IAM, S3, RDS, ASG, ALB, CloudWatch, Security Groups)` · `Terraform` · `Git` · `GitHub` · `Docker` · `Linux`
 
 ---
 
